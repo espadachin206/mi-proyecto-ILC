@@ -1,2 +1,3 @@
 este es el primer fichero txt 
 git
+Esto lo he hecho en mi casa
